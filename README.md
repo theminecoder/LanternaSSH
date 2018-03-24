@@ -28,7 +28,7 @@ public class App extends LanternaSSHApp {
       server.start();
       
       while(true) {
-          // Keep tread alive
+          // Keep thread alive
       }
     }
     
