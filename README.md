@@ -16,6 +16,7 @@ import org.apache.sshd.server.keyprovider.SimpleGeneratorHostKeyProvider;
 import org.apache.sshd.server.auth.password.AcceptAllPasswordAuthenticator;
 
 import java.io.File;
+import java.io.IOException;
 
 public class App extends LanternaSSHApp {
     
